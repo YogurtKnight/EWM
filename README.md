@@ -16,4 +16,4 @@
 3. 确定各指标权重
 
       
-$$ \Vert\vec{x}\Vert_1=\sum_{i=1}^N\vert{x_i}\vert $$
+$ \Vert\vec{x}\Vert_1=\sum_{i=1}^N\vert{x_i}\vert $
