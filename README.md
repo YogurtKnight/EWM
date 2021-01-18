@@ -1,4 +1,4 @@
-# 熵权法  the entropy weight method
+# 熵权法  the entropy weight method(EWM)
 ## 一、熵权法介绍
 
 熵最先由申农引入信息论，目前已经在工程技术、社会经济等领域得到了非常广泛的应用。
